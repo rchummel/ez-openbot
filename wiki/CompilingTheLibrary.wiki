@@ -11,5 +11,5 @@ The easiest way is to import the project into Eclipse (linux) or Visual Studio 2
 To build on command line run, from the source directory
 
 {{{
-make *.cpp -olibez-openbot.so -shared -fPIC -lpthread -lbluetooth -lrt
+g++ *.cpp -olibez-openbot.so -shared -fPIC -lpthread -lbluetooth -lrt
 }}}
