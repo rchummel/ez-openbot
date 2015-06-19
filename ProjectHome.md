@@ -1,0 +1,1 @@
+This is an opensource C++ library for the EZ-Robot EZ-B Controller. Works with Raspberry Pi and Linux flavors.
